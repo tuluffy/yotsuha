@@ -8,7 +8,7 @@ Installation
     
 or  
 
-     $ npm i yotsuha -save
+     $ npm i yotsuha --save
 
 
 
