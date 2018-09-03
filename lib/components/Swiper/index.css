@@ -1,0 +1,21 @@
+.swiper-container{
+  overflow: hidden;
+  position: relative;
+}
+
+.swiper-content{
+  display: flex;
+  flex-direction: row;
+  transition: all 0.5s;
+}
+
+.swiper-dot{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  position: absolute;
+  bottom: 20px;
+  padding: 0 20px;
+}
